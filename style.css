@@ -43,6 +43,11 @@ body {
   margin-bottom: 1rem;
 }
 
+.paragraph {
+  width: 100%;
+  margin: 0 auto;
+}
+
 .card-list {
   display: flex;
   flex-direction: column;
@@ -108,4 +113,35 @@ img {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    padding: 4rem;
+  }
+}
+
+@media screen and (min-width: 796px) {
+  .container {
+    max-width: 1024px;
+    overflow: hidden;
+    margin: 0 auto;
+  }
+
+  .paragraph {
+    width: 70%;
+  }
+
+  .card-list {
+    display: grid;
+    column-gap: 2rem;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .paragraph {
+    width: 50%;
+  }
 }
