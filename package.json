@@ -1,0 +1,7 @@
+{
+  "name": "fm-four-card-feature-section",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "light-server -c .lightserverrc"
+  }
+}
