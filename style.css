@@ -23,7 +23,7 @@ body {
   font-size: 15px;
 }
 
-.container {
+.main {
   padding: 4rem 2rem;
 }
 
@@ -116,13 +116,13 @@ img {
 }
 
 @media screen and (min-width: 768px) {
-  .container {
+  .main {
     padding: 4rem;
   }
 }
 
 @media screen and (min-width: 796px) {
-  .container {
+  .main {
     max-width: 1024px;
     overflow: hidden;
     margin: 0 auto;
