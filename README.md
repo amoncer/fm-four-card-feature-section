@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frentend Mentor](https://www.frontendmentor.io/solutions/mobilefirst-solution-using-grid-and-flexbox-Ls0a_8vWd)
+- Live Site URL: [Demo On Netlify](https://amoncer-four-card-feature-section.netlify.app/)
 
 ## My process
 
